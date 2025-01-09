@@ -15,11 +15,11 @@ Une application **Pokédex** développée avec **React**, qui consomme les donn�
 
 ### Page d'accueil
 
-![Page d'accueil](.apercu 1.png)
+![Page d'accueil](./apercu 1.png)
 
 ### Détails d'un Pokémon
 
-![Détails d'un Pokémon](apercu 2.png)
+![Détails d'un Pokémon](./apercu 2.png)
 
 ## 🛠️ Technologies utilisées
 
