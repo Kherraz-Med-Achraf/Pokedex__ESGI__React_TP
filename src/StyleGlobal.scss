@@ -151,6 +151,16 @@ body {
         width: 35px;
       }
     }
+    .evolution {
+      display: flex;
+      flex-direction: column;
+      justify-content: center;
+      align-items: center;
+      gap: 10px;
+      p {
+        margin: 5px 0;
+      }
+    }
   }
   .back-btn {
     position: absolute;

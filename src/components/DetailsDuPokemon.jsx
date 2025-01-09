@@ -62,6 +62,16 @@ function DetailsDuPokemon() {
             </span>
           ))}
         </p>
+        {pokemon.evolutions.length > 0 && (
+          <p>
+            <strong>Evolutions:</strong>
+            {pokemon.evolutions.map((evolution) => (
+              <span key={evolution.id} className="evolution">
+                <p>{evolution.name}</p>
+              </span>
+            ))}
+          </p>
+        )}
       </div>
 
       <Link className="back-btn" to="/">
